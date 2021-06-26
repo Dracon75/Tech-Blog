@@ -5,7 +5,7 @@ https://dracon75.github.io/Tech-Blog/
 
 ## About 
 
-Need to keep track of your spending? This is the app for you! This budget tracker allows you to add and subtract funds as well as showing you a graph of your total funds over time. This app also allows you to add transactions if you are offline. When you go back online, your transactions will continue to be displayed. 
+A simple blog post application where you can login create a post, update or delete a post and view other users posts.
 
 ### Built With
 
