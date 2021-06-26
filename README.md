@@ -20,7 +20,7 @@ A simple blog post application where you can login create a post, update or dele
 1. Clone the repo
 
 ```sh
-git clone https://dracon75.github.io/Tech-Blog/
+git clone git@github.com:Dracon75/Tech-Blog.git
 ```
 
 2. Install the packages
