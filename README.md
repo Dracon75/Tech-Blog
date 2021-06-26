@@ -33,3 +33,6 @@ npm install
 
 After you clone the repo and install the packages, you can run an 'npm start' to view the website via local host in the browser.
 
+## Screenshot 
+
+<img src='public\Tech-Blog_Screenshot.PNG'>
